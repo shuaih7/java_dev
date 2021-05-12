@@ -1,7 +1,8 @@
 package general;
+import java.util.Arrays;
 
 public class Method {
-    static private int number = 2;
+    static private final int number = 2;
     static private int static_number;
 
     public static void main(String[] args) {
