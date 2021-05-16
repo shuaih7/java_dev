@@ -13,6 +13,8 @@ public class Method {
         System.out.println(s);
     }
 
+    public static void print(int i) {System.out.println(i);}
+
     public static void printArray(Arrays arr){
         System.out.println(arr);
     }

@@ -1,8 +1,8 @@
-package SwingGUI;
+package gui;
 import general.Method;
 import java.awt.*;
 
-public class myFrame {
+public class SwingGUI {
     public static void main(String[] args) {
         Method.print("开始创建一个Frame界面");
 
